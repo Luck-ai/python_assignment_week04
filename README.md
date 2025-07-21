@@ -1,2 +1,1 @@
-# python_assignment_week04
-Python assingment week 4
+this project is about the python assingment week 4
